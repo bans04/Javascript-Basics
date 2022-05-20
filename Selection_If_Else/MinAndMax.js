@@ -1,6 +1,6 @@
 /*
 --> Statement:-> Write a program that reads 5 Random 3 Digit values and then outputs the minimum
-and the maximum value 
+and the maximum value .
 
 -->@Dnyandeo bansode
 */

@@ -1,4 +1,4 @@
-//program to print hrad or tail by randmly
+//program to print hrad or tail by randmly.
 let tail;
 let head;
 
